@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8aa8bb86-60ec-4b24-9da5-b0445bd321f5",
+  "files": [],
+  "subMetas": {
+    "0f629": {
+      "importer": "gltf-mesh",
+      "uuid": "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@0f629",
+      "displayName": "",
+      "id": "0f629",
+      "name": "Chest_Closed.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2914
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89a26": {
+      "importer": "gltf-material",
+      "uuid": "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@89a26",
+      "displayName": "",
+      "id": "89a26",
+      "name": "Atlas.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d983": {
+      "importer": "gltf-scene",
+      "uuid": "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@7d983",
+      "displayName": "",
+      "id": "7d983",
+      "name": "Chest_Closed_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@7d983",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@0f629"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@7d6ab"
+      ],
+      "materials": [
+        "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@89a26"
+      ],
+      "scenes": [
+        "8aa8bb86-60ec-4b24-9da5-b0445bd321f5@7d983"
+      ]
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "68420": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@68420",
+      "displayName": "",
+      "id": "68420",
+      "name": "L_Mid_Wheel (2).mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "acc85": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@acc85",
+      "displayName": "",
+      "id": "acc85",
+      "name": "R_Mid_Wheel.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a682b": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@a682b",
+      "displayName": "",
+      "id": "a682b",
+      "name": "R_Front_Wheel (2).mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db0bd": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@db0bd",
+      "displayName": "",
+      "id": "db0bd",
+      "name": "R_JerryCan.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 88
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55ea3": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@55ea3",
+      "displayName": "",
+      "id": "55ea3",
+      "name": "Headlight.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cbcd6": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@cbcd6",
+      "displayName": "",
+      "id": "cbcd6",
+      "name": "Body.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 594
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "59f02": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@59f02",
+      "displayName": "",
+      "id": "59f02",
+      "name": "R_Back_Wheel (2).mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "619d4": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@619d4",
+      "displayName": "",
+      "id": "619d4",
+      "name": "L_JerryCan.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 88
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e07e5": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@e07e5",
+      "displayName": "",
+      "id": "e07e5",
+      "name": "Shovel.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 108
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72d4f": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@72d4f",
+      "displayName": "",
+      "id": "72d4f",
+      "name": "L_Back_Wheel (2).mesh",
+      "userData": {
+        "gltfIndex": 9,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2994": {
+      "importer": "gltf-mesh",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@a2994",
+      "displayName": "",
+      "id": "a2994",
+      "name": "L_Front_Wheel (2).mesh",
+      "userData": {
+        "gltfIndex": 10,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "63b79": {
+      "importer": "gltf-material",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@63b79",
+      "displayName": "",
+      "id": "63b79",
+      "name": "V_Wesley.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1ee2": {
+      "importer": "gltf-scene",
+      "uuid": "cfbc3333-48e1-487b-854c-487cf2baa25a@a1ee2",
+      "displayName": "",
+      "id": "a1ee2",
+      "name": "V_Wesley_Body.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 5,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "cfbc3333-48e1-487b-854c-487cf2baa25a@a1ee2",
+    "assetFinder": {
+      "meshes": [
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@68420",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@acc85",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@a682b",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@db0bd",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@55ea3",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@cbcd6",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@59f02",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@619d4",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@e07e5",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@72d4f",
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@a2994"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@63b79"
+      ],
+      "scenes": [
+        "cfbc3333-48e1-487b-854c-487cf2baa25a@a1ee2"
+      ]
+    },
+    "dumpMaterials": false,
+    "depthWriteInAlphaModeBlend": false,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

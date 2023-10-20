@@ -1,0 +1,177 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "0a272": {
+      "importer": "gltf-mesh",
+      "uuid": "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@0a272",
+      "displayName": "",
+      "id": "0a272",
+      "name": "Turret.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 360
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed8b6": {
+      "importer": "gltf-mesh",
+      "uuid": "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@ed8b6",
+      "displayName": "",
+      "id": "ed8b6",
+      "name": "Barrel.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 708
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2777": {
+      "importer": "gltf-mesh",
+      "uuid": "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@f2777",
+      "displayName": "",
+      "id": "f2777",
+      "name": "Pilot.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 126
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "3bcba": {
+      "importer": "gltf-material",
+      "uuid": "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@3bcba",
+      "displayName": "",
+      "id": "3bcba",
+      "name": "V_BaseTank.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f190c": {
+      "importer": "gltf-scene",
+      "uuid": "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@f190c",
+      "displayName": "",
+      "id": "f190c",
+      "name": "V_King_Turret.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 5,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@f190c",
+    "assetFinder": {
+      "meshes": [
+        "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@0a272",
+        "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@ed8b6",
+        "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@f2777"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@3bcba"
+      ],
+      "scenes": [
+        "2a1ccbf9-d1e5-4ce1-9052-daa3d1864786@f190c"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

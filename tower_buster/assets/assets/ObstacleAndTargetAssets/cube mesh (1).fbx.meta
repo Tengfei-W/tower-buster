@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "721f68ed-4cbc-4d4b-8299-f255c667bc45",
+  "files": [],
+  "subMetas": {
+    "c244a": {
+      "importer": "gltf-mesh",
+      "uuid": "721f68ed-4cbc-4d4b-8299-f255c667bc45@c244a",
+      "displayName": "",
+      "id": "c244a",
+      "name": "Cylinder.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 68
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49d0a": {
+      "importer": "gltf-scene",
+      "uuid": "721f68ed-4cbc-4d4b-8299-f255c667bc45@49d0a",
+      "displayName": "",
+      "id": "49d0a",
+      "name": "cube mesh (1).prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "721f68ed-4cbc-4d4b-8299-f255c667bc45@49d0a",
+    "assetFinder": {
+      "meshes": [
+        "721f68ed-4cbc-4d4b-8299-f255c667bc45@c244a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "721f68ed-4cbc-4d4b-8299-f255c667bc45@49d0a"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

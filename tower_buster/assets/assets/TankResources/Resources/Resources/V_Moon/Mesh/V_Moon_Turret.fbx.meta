@@ -1,0 +1,158 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "30764f11-e6ce-4285-a9f1-334971ffdc59",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "0a272": {
+      "importer": "gltf-mesh",
+      "uuid": "30764f11-e6ce-4285-a9f1-334971ffdc59@0a272",
+      "displayName": "",
+      "id": "0a272",
+      "name": "Turret.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 218
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed8b6": {
+      "importer": "gltf-mesh",
+      "uuid": "30764f11-e6ce-4285-a9f1-334971ffdc59@ed8b6",
+      "displayName": "",
+      "id": "ed8b6",
+      "name": "Barrel.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 168
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "30764f11-e6ce-4285-a9f1-334971ffdc59@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d54d8": {
+      "importer": "gltf-material",
+      "uuid": "30764f11-e6ce-4285-a9f1-334971ffdc59@d54d8",
+      "displayName": "",
+      "id": "d54d8",
+      "name": "Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea298": {
+      "importer": "gltf-scene",
+      "uuid": "30764f11-e6ce-4285-a9f1-334971ffdc59@ea298",
+      "displayName": "",
+      "id": "ea298",
+      "name": "V_Moon_Turret.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 5,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "30764f11-e6ce-4285-a9f1-334971ffdc59@ea298",
+    "assetFinder": {
+      "meshes": [
+        "30764f11-e6ce-4285-a9f1-334971ffdc59@0a272",
+        "30764f11-e6ce-4285-a9f1-334971ffdc59@ed8b6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "30764f11-e6ce-4285-a9f1-334971ffdc59@d54d8"
+      ],
+      "scenes": [
+        "30764f11-e6ce-4285-a9f1-334971ffdc59@ea298"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

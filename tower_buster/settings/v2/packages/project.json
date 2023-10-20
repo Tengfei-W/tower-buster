@@ -1,0 +1,31 @@
+{
+  "__version__": "1.0.5",
+  "general": {
+    "designResolution": {
+      "width": 500,
+      "height": 1024,
+      "fitHeight": true,
+      "fitWidth": false
+    },
+    "highQuality": false
+  },
+  "layer": [
+    {
+      "name": "Bullet",
+      "value": 1
+    }
+  ],
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "bullet"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 3,
+      "1": 1
+    }
+  },
+  "custom_joint_texture_layouts": []
+}

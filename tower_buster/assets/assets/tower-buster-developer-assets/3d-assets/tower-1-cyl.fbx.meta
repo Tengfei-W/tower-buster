@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2cfe9a2c-29df-4125-a0fc-34c75f93298c",
+  "files": [],
+  "subMetas": {
+    "8442d": {
+      "importer": "gltf-mesh",
+      "uuid": "2cfe9a2c-29df-4125-a0fc-34c75f93298c@8442d",
+      "displayName": "",
+      "id": "8442d",
+      "name": "tower-cyl005.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 240
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "2cfe9a2c-29df-4125-a0fc-34c75f93298c@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "151b8": {
+      "importer": "gltf-scene",
+      "uuid": "2cfe9a2c-29df-4125-a0fc-34c75f93298c@151b8",
+      "displayName": "",
+      "id": "151b8",
+      "name": "tower-1-cyl.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "2cfe9a2c-29df-4125-a0fc-34c75f93298c@151b8",
+    "assetFinder": {
+      "meshes": [
+        "2cfe9a2c-29df-4125-a0fc-34c75f93298c@8442d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2cfe9a2c-29df-4125-a0fc-34c75f93298c@d90a4"
+      ],
+      "scenes": [
+        "2cfe9a2c-29df-4125-a0fc-34c75f93298c@151b8"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

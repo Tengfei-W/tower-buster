@@ -1,0 +1,3725 @@
+[
+   {
+      "levelID": 0,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 15,
+               "style": "0",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.5,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 25,
+               "style": "0",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 1,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 30,
+               "style": "3",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.7,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 40,
+               "style": "3",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 0.7,
+               "count": 1,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 2,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 42,
+               "style": "4",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 0.6,
+               "count": 1,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 53,
+               "style": "4",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 3,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 45,
+               "style": "5",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": true,
+            "blocks": {
+               "count": 7,
+               "style": "C1",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 4,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 55,
+               "style": "5",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": true,
+            "blocks": {
+               "count": 9,
+               "style": "C2",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 5,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 50,
+               "style": "6",
+               "health": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 65,
+               "style": "6",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 55,
+               "style": "6",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 72,
+               "style": "6",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 6,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 70,
+               "style": "6",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": true,
+            "blocks": {
+               "count": 10,
+               "style": "C3",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 7,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 80,
+               "style": "6",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 90,
+               "style": "6",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 96,
+               "style": "7",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.7,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 108,
+               "style": "7",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 115,
+               "style": "8",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 130,
+               "style": "8",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 8,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 85,
+               "style": "6",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": true,
+            "blocks": {
+               "count": 10,
+               "style": "C2",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 111,
+               "style": "8",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3",
+                  "B3"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": true,
+            "blocks": {
+               "count": 13,
+               "style": "C1",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 9,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 95,
+               "style": "6",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 4,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 110,
+               "style": "6",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 114,
+               "style": "4",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 0.9,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 132,
+               "style": "4",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 137,
+               "style": "3",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 158,
+               "style": "3",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 6,
+            "bossLvl": false,
+            "blocks": {
+               "count": 164,
+               "style": "5",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 10,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 90,
+               "style": "6",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.6,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 102,
+               "style": "6",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 99,
+               "style": "5",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 112,
+               "style": "5",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 11,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 80,
+               "style": "6",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": true,
+            "blocks": {
+               "count": 10,
+               "style": "C1",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 88,
+               "style": "7",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.6,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": true,
+            "blocks": {
+               "count": 11,
+               "style": "C2",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 97,
+               "style": "5",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": true,
+            "blocks": {
+               "count": 12,
+               "style": "C1",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.8,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 6,
+            "bossLvl": false,
+            "blocks": {
+               "count": 106,
+               "style": "4",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 0.9,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 7,
+            "bossLvl": true,
+            "blocks": {
+               "count": 13,
+               "style": "C3",
+               "health": 3,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 12,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 95,
+               "style": "6",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 100,
+               "style": "6",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 114,
+               "style": "7",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "7",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 13,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 115,
+               "style": "6",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": true,
+            "blocks": {
+               "count": 14,
+               "style": "C2",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 14,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "4",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 135,
+               "style": "6",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 144,
+               "style": "7",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 162,
+               "style": "9",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 15,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 100,
+               "style": "8",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "8",
+               "health": 4,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 16,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 115,
+               "style": "4",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 4,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "6",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 138,
+               "style": "5",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 144,
+               "style": "6",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 166,
+               "style": "4",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 173,
+               "style": "5",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 17,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 110,
+               "style": "4",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 125,
+               "style": "4",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 18,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "6",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 140,
+               "style": "6",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 144,
+               "style": "4",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 168,
+               "style": "4",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 173,
+               "style": "3",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 4,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 202,
+               "style": "3",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 19,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 100,
+               "style": "6",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 125,
+               "style": "6",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "4",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 150,
+               "style": "4",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 144,
+               "style": "3",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 180,
+               "style": "3",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 6,
+            "bossLvl": false,
+            "blocks": {
+               "count": 173,
+               "style": "5",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 4,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 7,
+            "bossLvl": false,
+            "blocks": {
+               "count": 216,
+               "style": "5",
+               "health": 5,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 20,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 15,
+               "style": "0",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.6,
+               "count": 3,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 25,
+               "style": "0",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 21,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 30,
+               "style": "3",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 40,
+               "style": "3",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 22,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 42,
+               "style": "4",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 53,
+               "style": "4",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 23,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 45,
+               "style": "5",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 7,
+               "style": "C3",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 24,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 55,
+               "style": "5",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 9,
+               "style": "C1",
+               "health": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 25,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 50,
+               "style": "6",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 65,
+               "style": "6",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 55,
+               "style": "6",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 72,
+               "style": "6",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 26,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 70,
+               "style": "6",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": true,
+            "blocks": {
+               "count": 10,
+               "style": "C2",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 27,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 80,
+               "style": "6",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 90,
+               "style": "6",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 96,
+               "style": "7",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 108,
+               "style": "7",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 115,
+               "style": "8",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 130,
+               "style": "8",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 28,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 85,
+               "style": "6",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 10,
+               "style": "C3",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 111,
+               "style": "8",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 13,
+               "style": "C2",
+               "health": 6,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 29,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 95,
+               "style": "6",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 4,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 110,
+               "style": "6",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 114,
+               "style": "4",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 132,
+               "style": "4",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 137,
+               "style": "3",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 158,
+               "style": "3",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 6,
+            "bossLvl": false,
+            "blocks": {
+               "count": 164,
+               "style": "5",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 7,
+            "bossLvl": false,
+            "blocks": {
+               "count": 190,
+               "style": "5",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 30,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 90,
+               "style": "6",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.8,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 102,
+               "style": "6",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 99,
+               "style": "5",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 112,
+               "style": "5",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 31,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 80,
+               "style": "6",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": true,
+            "blocks": {
+               "count": 10,
+               "style": "C2",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 88,
+               "style": "7",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": true,
+            "blocks": {
+               "count": 11,
+               "style": "C1",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 97,
+               "style": "5",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": true,
+            "blocks": {
+               "count": 12,
+               "style": "C3",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 32,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 95,
+               "style": "6",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 100,
+               "style": "6",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 114,
+               "style": "7",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "7",
+               "health": 7,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 33,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 115,
+               "style": "6",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 14,
+               "style": "C2",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 34,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "4",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 135,
+               "style": "6",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 144,
+               "style": "7",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 162,
+               "style": "9",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 35,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 100,
+               "style": "8",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "8",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 36,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 115,
+               "style": "4",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 4,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "6",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 138,
+               "style": "5",
+               "health": 8,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 144,
+               "style": "6",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 166,
+               "style": "4",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 173,
+               "style": "5",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 37,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 110,
+               "style": "4",
+               "health": 30,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 125,
+               "style": "4",
+               "health": 30,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 38,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 100,
+               "style": "6",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 1,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "6",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 120,
+               "style": "4",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 144,
+               "style": "4",
+               "health": 30,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 144,
+               "style": "3",
+               "health": 30,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 4,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 173,
+               "style": "3",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 39,
+      "stages": [
+         {
+            "stageID": 0,
+            "bossLvl": false,
+            "blocks": {
+               "count": 105,
+               "style": "6",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "bossLvl": false,
+            "blocks": {
+               "count": 130,
+               "style": "6",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "bossLvl": false,
+            "blocks": {
+               "count": 126,
+               "style": "4",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 2,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "bossLvl": false,
+            "blocks": {
+               "count": 156,
+               "style": "4",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "bossLvl": false,
+            "blocks": {
+               "count": 151,
+               "style": "3",
+               "health": 10,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "bossLvl": false,
+            "blocks": {
+               "count": 187,
+               "style": "3",
+               "health": 30,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3,
+               "varSpeed": false
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 6,
+            "bossLvl": false,
+            "blocks": {
+               "count": 181,
+               "style": "5",
+               "health": 30,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 4,
+               "varSpeed": true
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         }
+      ]
+   }
+]

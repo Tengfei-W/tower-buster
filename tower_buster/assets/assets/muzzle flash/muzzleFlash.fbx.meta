@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a210d07a-e223-4c78-a022-ce93c2c6a963",
+  "files": [],
+  "subMetas": {
+    "fe6ae": {
+      "importer": "gltf-mesh",
+      "uuid": "a210d07a-e223-4c78-a022-ce93c2c6a963@fe6ae",
+      "displayName": "",
+      "id": "fe6ae",
+      "name": "Cone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 45
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "a210d07a-e223-4c78-a022-ce93c2c6a963@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/assets/muzzle flash"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4e6b": {
+      "importer": "gltf-material",
+      "uuid": "a210d07a-e223-4c78-a022-ce93c2c6a963@b4e6b",
+      "displayName": "",
+      "id": "b4e6b",
+      "name": "Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a15d5": {
+      "importer": "gltf-scene",
+      "uuid": "a210d07a-e223-4c78-a022-ce93c2c6a963@a15d5",
+      "displayName": "",
+      "id": "a15d5",
+      "name": "muzzleFlash.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/assets/muzzle flash"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "a210d07a-e223-4c78-a022-ce93c2c6a963@a15d5",
+    "assetFinder": {
+      "meshes": [
+        "a210d07a-e223-4c78-a022-ce93c2c6a963@fe6ae"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a210d07a-e223-4c78-a022-ce93c2c6a963@7d6ab"
+      ],
+      "materials": [
+        "a210d07a-e223-4c78-a022-ce93c2c6a963@b4e6b"
+      ],
+      "scenes": [
+        "a210d07a-e223-4c78-a022-ce93c2c6a963@a15d5"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

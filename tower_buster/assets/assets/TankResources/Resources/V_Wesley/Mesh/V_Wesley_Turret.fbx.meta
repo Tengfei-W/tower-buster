@@ -1,0 +1,196 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5b8db0da-059d-409c-bd43-ea872b89d624",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "70144": {
+      "importer": "gltf-scene",
+      "uuid": "5b8db0da-059d-409c-bd43-ea872b89d624@70144",
+      "displayName": "",
+      "id": "70144",
+      "name": "V_Wesley_Turret.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a272": {
+      "importer": "gltf-mesh",
+      "uuid": "5b8db0da-059d-409c-bd43-ea872b89d624@0a272",
+      "displayName": "",
+      "id": "0a272",
+      "name": "Turret.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 592
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7729": {
+      "importer": "gltf-mesh",
+      "uuid": "5b8db0da-059d-409c-bd43-ea872b89d624@b7729",
+      "displayName": "",
+      "id": "b7729",
+      "name": "AmmoBox.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 22
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5760": {
+      "importer": "gltf-mesh",
+      "uuid": "5b8db0da-059d-409c-bd43-ea872b89d624@e5760",
+      "displayName": "",
+      "id": "e5760",
+      "name": "Gun.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 712
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed8b6": {
+      "importer": "gltf-mesh",
+      "uuid": "5b8db0da-059d-409c-bd43-ea872b89d624@ed8b6",
+      "displayName": "",
+      "id": "ed8b6",
+      "name": "Barrel.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 180
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "5b8db0da-059d-409c-bd43-ea872b89d624@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "63b79": {
+      "importer": "gltf-material",
+      "uuid": "5b8db0da-059d-409c-bd43-ea872b89d624@63b79",
+      "displayName": "",
+      "id": "63b79",
+      "name": "V_Wesley.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 5,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "5b8db0da-059d-409c-bd43-ea872b89d624@70144",
+    "assetFinder": {
+      "meshes": [
+        "5b8db0da-059d-409c-bd43-ea872b89d624@0a272",
+        "5b8db0da-059d-409c-bd43-ea872b89d624@b7729",
+        "5b8db0da-059d-409c-bd43-ea872b89d624@e5760",
+        "5b8db0da-059d-409c-bd43-ea872b89d624@ed8b6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5b8db0da-059d-409c-bd43-ea872b89d624@63b79"
+      ],
+      "scenes": [
+        "5b8db0da-059d-409c-bd43-ea872b89d624@70144"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

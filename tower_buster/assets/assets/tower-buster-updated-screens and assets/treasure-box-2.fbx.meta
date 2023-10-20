@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cdee909b-6b81-4e2c-8fd4-23a2d506122c",
+  "files": [],
+  "subMetas": {
+    "11dd9": {
+      "importer": "gltf-mesh",
+      "uuid": "cdee909b-6b81-4e2c-8fd4-23a2d506122c@11dd9",
+      "displayName": "",
+      "id": "11dd9",
+      "name": "Chest_Top.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2282
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1442": {
+      "importer": "gltf-mesh",
+      "uuid": "cdee909b-6b81-4e2c-8fd4-23a2d506122c@e1442",
+      "displayName": "",
+      "id": "e1442",
+      "name": "Chest_Bottom.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 980
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db4d2": {
+      "importer": "gltf-material",
+      "uuid": "cdee909b-6b81-4e2c-8fd4-23a2d506122c@db4d2",
+      "displayName": "",
+      "id": "db4d2",
+      "name": "02 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ebdef": {
+      "importer": "gltf-scene",
+      "uuid": "cdee909b-6b81-4e2c-8fd4-23a2d506122c@ebdef",
+      "displayName": "",
+      "id": "ebdef",
+      "name": "treasure-box-2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "cdee909b-6b81-4e2c-8fd4-23a2d506122c@ebdef",
+    "assetFinder": {
+      "meshes": [
+        "cdee909b-6b81-4e2c-8fd4-23a2d506122c@11dd9",
+        "cdee909b-6b81-4e2c-8fd4-23a2d506122c@e1442"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "cdee909b-6b81-4e2c-8fd4-23a2d506122c@db4d2"
+      ],
+      "scenes": [
+        "cdee909b-6b81-4e2c-8fd4-23a2d506122c@ebdef"
+      ]
+    },
+    "normals": 0,
+    "tangents": 0,
+    "meshOptimizer": {
+      "enable": false
+    },
+    "morphNormals": 1,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

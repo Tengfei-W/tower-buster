@@ -1,0 +1,185 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e9a3394d-976d-4207-a727-752ecaa341a8",
+  "files": [],
+  "subMetas": {
+    "d0e8e": {
+      "importer": "gltf-mesh",
+      "uuid": "e9a3394d-976d-4207-a727-752ecaa341a8@d0e8e",
+      "displayName": "",
+      "id": "d0e8e",
+      "name": "platfor-leg-side-1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f594": {
+      "importer": "gltf-material",
+      "uuid": "e9a3394d-976d-4207-a727-752ecaa341a8@2f594",
+      "displayName": "",
+      "id": "2f594",
+      "name": "foot.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "167be": {
+      "importer": "gltf-scene",
+      "uuid": "e9a3394d-976d-4207-a727-752ecaa341a8@167be",
+      "displayName": "",
+      "id": "167be",
+      "name": "platform-leg-side-1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "e9a3394d-976d-4207-a727-752ecaa341a8@167be",
+    "assetFinder": {
+      "meshes": [
+        "e9a3394d-976d-4207-a727-752ecaa341a8@d0e8e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e9a3394d-976d-4207-a727-752ecaa341a8@2f594"
+      ],
+      "scenes": [
+        "e9a3394d-976d-4207-a727-752ecaa341a8@167be"
+      ]
+    },
+    "morphNormals": 0,
+    "materials": {
+      "e9a3394d-976d-4207-a727-752ecaa341a8@2f594": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {
+              "cullMode": 0
+            },
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 173,
+              "g": 173,
+              "b": 173,
+              "a": 255
+            }
+          },
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

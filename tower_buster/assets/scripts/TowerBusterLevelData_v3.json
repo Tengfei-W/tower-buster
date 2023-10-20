@@ -1,0 +1,3413 @@
+[
+   {
+      "levelID": 0,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 15,
+               "style": 0,
+               "hitPoint": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.5,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 25,
+               "style": 0,
+               "hitPoint": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 1,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 30,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.7,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 40,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": null,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 2,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 42,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": null,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 53,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 3,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 45,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 7,
+               "style": 1,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 4,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 55,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 9,
+               "style": 1,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 5,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 50,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 65,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 55,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 72,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 6,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 70,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 10,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 7,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 80,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 90,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 96,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 108,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 115,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 130,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 8,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 85,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 10,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 111,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3",
+                  "B3"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 13,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 9,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 95,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 4
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 110,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.8,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 114,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 0.9,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 132,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 137,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 158,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 6,
+            "blocks": {
+               "count": 164,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 10,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 90,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 102,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 99,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 112,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 11,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 80,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 10,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 88,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 11,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 97,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 12,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         },
+         {
+            "stageID": 6,
+            "blocks": {
+               "count": 106,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 0.9,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 7,
+            "blocks": {
+               "count": 13,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 12,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 95,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 100,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 114,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 120,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 13,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 115,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 14,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 14,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 120,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 135,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 144,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 162,
+               "style": 9,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 15,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 100,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 120,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 16,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 115,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 4
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 120,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 138,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 144,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 166,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 173,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 17,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 110,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 125,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 18,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 120,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 140,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 144,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 168,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 173,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 4
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 202,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 19,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 100,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 125,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 120,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 150,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 144,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 180,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 6,
+            "blocks": {
+               "count": 173,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 4
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 7,
+            "blocks": {
+               "count": 216,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 20,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 15,
+               "style": 0,
+               "hitPoint": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": null,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 25,
+               "style": 0,
+               "hitPoint": 1,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 21,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 30,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 40,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 22,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 42,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 53,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 5,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 23,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 45,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 7,
+               "style": 1,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 24,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 55,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 9,
+               "style": 1,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 25,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 50,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 65,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 55,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 72,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 26,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 70,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 10,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 27,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 80,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 90,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 96,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 108,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 115,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 130,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 28,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 85,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 10,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 111,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 13,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 29,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 95,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B1"
+               ],
+               "speed": 0.7,
+               "count": 4
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 110,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 114,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 132,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 137,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 158,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 6,
+            "blocks": {
+               "count": 164,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 7,
+            "blocks": {
+               "count": 190,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 30,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 90,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 0.8,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 102,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 99,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 112,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 31,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 80,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 10,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 88,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 11,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 97,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 12,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": null
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 32,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 95,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 100,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 114,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 120,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 33,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 115,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 14,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.8,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 34,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 120,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 135,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 144,
+               "style": 7,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 162,
+               "style": 9,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 35,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 100,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 120,
+               "style": 8,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 36,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 115,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 4
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 120,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A2"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 138,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B2"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 144,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 166,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 173,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 37,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 110,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 125,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 38,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 100,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": null,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 120,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 120,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 144,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 144,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 4
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 173,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A3"
+               ],
+               "speed": 1,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         }
+      ]
+   },
+   {
+      "levelID": 39,
+      "stages": [
+         {
+            "stageID": 0,
+            "blocks": {
+               "count": 105,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.7,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 1,
+            "blocks": {
+               "count": 130,
+               "style": 6,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.8,
+               "count": 1
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 2,
+            "blocks": {
+               "count": 126,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 3,
+            "blocks": {
+               "count": 156,
+               "style": 4,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1"
+               ],
+               "speed": 0.9,
+               "count": 2
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 4,
+            "blocks": {
+               "count": 151,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 0.9,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         },
+         {
+            "stageID": 5,
+            "blocks": {
+               "count": 187,
+               "style": 3,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": 1,
+               "count": 3
+            },
+            "diamonds": {
+               "count": 6,
+               "giftWrap": 1
+            }
+         },
+         {
+            "stageID": 6,
+            "blocks": {
+               "count": 181,
+               "style": 5,
+               "hitPoint": 2,
+               "score": 1
+            },
+            "obstacle": {
+               "type": [
+                  "A1",
+                  "B1"
+               ],
+               "speed": null,
+               "count": 4
+            },
+            "diamonds": {
+               "count": 1,
+               "giftWrap": 0
+            }
+         }
+      ]
+   }
+]

@@ -1,0 +1,98 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a6881885-96a4-4842-b11b-a5837e578ff9",
+  "files": [],
+  "subMetas": {
+    "b5943": {
+      "importer": "gltf-mesh",
+      "uuid": "a6881885-96a4-4842-b11b-a5837e578ff9@b5943",
+      "displayName": "",
+      "id": "b5943",
+      "name": "stick-around-ring.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "a6881885-96a4-4842-b11b-a5837e578ff9@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab953": {
+      "importer": "gltf-scene",
+      "uuid": "a6881885-96a4-4842-b11b-a5837e578ff9@ab953",
+      "displayName": "",
+      "id": "ab953",
+      "name": "stick-arround-ring-part.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "a6881885-96a4-4842-b11b-a5837e578ff9@ab953",
+    "assetFinder": {
+      "meshes": [
+        "a6881885-96a4-4842-b11b-a5837e578ff9@b5943"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a6881885-96a4-4842-b11b-a5837e578ff9@d90a4"
+      ],
+      "scenes": [
+        "a6881885-96a4-4842-b11b-a5837e578ff9@ab953"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

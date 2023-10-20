@@ -1,0 +1,105 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d918793c-c797-466b-adc2-094143e8c15e",
+  "files": [],
+  "subMetas": {
+    "c5bf8": {
+      "importer": "gltf-mesh",
+      "uuid": "d918793c-c797-466b-adc2-094143e8c15e@c5bf8",
+      "displayName": "",
+      "id": "c5bf8",
+      "name": "platform.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 264
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "d918793c-c797-466b-adc2-094143e8c15e@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d3ebc": {
+      "importer": "gltf-scene",
+      "uuid": "d918793c-c797-466b-adc2-094143e8c15e@d3ebc",
+      "displayName": "",
+      "id": "d3ebc",
+      "name": "platform.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "d918793c-c797-466b-adc2-094143e8c15e@d3ebc",
+    "assetFinder": {
+      "meshes": [
+        "d918793c-c797-466b-adc2-094143e8c15e@c5bf8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d918793c-c797-466b-adc2-094143e8c15e@d90a4"
+      ],
+      "scenes": [
+        "d918793c-c797-466b-adc2-094143e8c15e@d3ebc"
+      ]
+    },
+    "disableMeshSplit": false,
+    "meshOptimizer": {
+      "enable": true
+    },
+    "morphNormals": 1,
+    "tangents": 2,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

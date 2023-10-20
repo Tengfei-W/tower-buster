@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d58d1085-014c-4e79-aadf-21e26e1cd269",
+  "files": [],
+  "subMetas": {
+    "b8a2d": {
+      "importer": "gltf-mesh",
+      "uuid": "d58d1085-014c-4e79-aadf-21e26e1cd269@b8a2d",
+      "displayName": "",
+      "id": "b8a2d",
+      "name": "Plane001.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 80
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "d58d1085-014c-4e79-aadf-21e26e1cd269@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ebe2": {
+      "importer": "gltf-scene",
+      "uuid": "d58d1085-014c-4e79-aadf-21e26e1cd269@3ebe2",
+      "displayName": "",
+      "id": "3ebe2",
+      "name": "water.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "d58d1085-014c-4e79-aadf-21e26e1cd269@3ebe2",
+    "assetFinder": {
+      "meshes": [
+        "d58d1085-014c-4e79-aadf-21e26e1cd269@b8a2d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d58d1085-014c-4e79-aadf-21e26e1cd269@d90a4"
+      ],
+      "scenes": [
+        "d58d1085-014c-4e79-aadf-21e26e1cd269@3ebe2"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}
