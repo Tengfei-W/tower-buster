@@ -1,0 +1,118 @@
+{
+    "allLevels": {
+        "Level1": [
+            {
+                "stages": [
+                    {
+                        "blocks": {
+                            "count": 10,
+                            "style": 1,
+                            "hitPoint": 2,
+                            "score": 3
+                        },
+                        "obstacle": {
+                            "type": 1,
+                            "speed": 0.7,
+                            "count": 1
+                        },
+                        "diamonds": {
+                            "count": 10,
+                            "giftWrap": false
+                        }
+                    },
+                    {
+                        "blocks": {
+                            "count": 15,
+                            "style": 2,
+                            "hitPoint": 2,
+                            "score": 3
+                        },
+                        "obstacle": {
+                            "type": 1,
+                            "speed": 1,
+                            "count": 2
+                        },
+                        "diamonds": {
+                            "count": 10,
+                            "giftWrap": false
+                        }
+                    },
+                    {
+                        "blocks": {
+                            "count": 20,
+                            "style": 3,
+                            "hitPoint": 2,
+                            "score": 3
+                        },
+                        "obstacle": {
+                            "type": 2,
+                            "speed": 1,
+                            "count": 2
+                        },
+                        "diamonds": {
+                            "count": 10,
+                            "giftWrap": false
+                        }
+                    }
+                ]
+            }
+        ],
+        "Level2": [
+            {
+                "stages": [
+                    {
+                        "blocks": {
+                            "count": 10,
+                            "style": 1,
+                            "hitPoint": 2,
+                            "score": 3
+                        },
+                        "obstacle": {
+                            "type": 1,
+                            "speed": 0.7,
+                            "count": 1
+                        },
+                        "diamonds": {
+                            "count": 10,
+                            "giftWrap": false
+                        }
+                    },
+                    {
+                        "blocks": {
+                            "count": 15,
+                            "style": 2,
+                            "hitPoint": 2,
+                            "score": 3
+                        },
+                        "obstacle": {
+                            "type": 1,
+                            "speed": 1,
+                            "count": 2
+                        },
+                        "diamonds": {
+                            "count": 10,
+                            "giftWrap": false
+                        }
+                    },
+                    {
+                        "blocks": {
+                            "count": 20,
+                            "style": 3,
+                            "hitPoint": 2,
+                            "score": 3
+                        },
+                        "obstacle": {
+                            "type": 2,
+                            "speed": 1,
+                            "count": 2
+                        },
+                        "diamonds": {
+                            "count": 10,
+                            "giftWrap": false
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

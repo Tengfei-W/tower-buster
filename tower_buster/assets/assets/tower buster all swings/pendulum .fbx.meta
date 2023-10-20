@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0c69825f-9e7f-4bcc-b2b0-cf620d9d492d",
+  "files": [],
+  "subMetas": {
+    "99162": {
+      "importer": "gltf-mesh",
+      "uuid": "0c69825f-9e7f-4bcc-b2b0-cf620d9d492d@99162",
+      "displayName": "",
+      "id": "99162",
+      "name": "Cylinder.051.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 1506
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "113c5": {
+      "importer": "gltf-mesh",
+      "uuid": "0c69825f-9e7f-4bcc-b2b0-cf620d9d492d@113c5",
+      "displayName": "",
+      "id": "113c5",
+      "name": "Cylinder.043.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 308
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "13d55": {
+      "importer": "gltf-scene",
+      "uuid": "0c69825f-9e7f-4bcc-b2b0-cf620d9d492d@13d55",
+      "displayName": "",
+      "id": "13d55",
+      "name": "pendulum .prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "0c69825f-9e7f-4bcc-b2b0-cf620d9d492d@13d55",
+    "assetFinder": {
+      "meshes": [
+        "0c69825f-9e7f-4bcc-b2b0-cf620d9d492d@113c5",
+        "0c69825f-9e7f-4bcc-b2b0-cf620d9d492d@99162"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "0c69825f-9e7f-4bcc-b2b0-cf620d9d492d@13d55"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

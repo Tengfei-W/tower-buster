@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5605bb18-2a84-46e8-af98-769e0e3f8432",
+  "files": [],
+  "subMetas": {
+    "23b20": {
+      "importer": "gltf-mesh",
+      "uuid": "5605bb18-2a84-46e8-af98-769e0e3f8432@23b20",
+      "displayName": "",
+      "id": "23b20",
+      "name": "Sphere002.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "5605bb18-2a84-46e8-af98-769e0e3f8432@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37cea": {
+      "importer": "gltf-scene",
+      "uuid": "5605bb18-2a84-46e8-af98-769e0e3f8432@37cea",
+      "displayName": "",
+      "id": "37cea",
+      "name": "shooting-ball.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "5605bb18-2a84-46e8-af98-769e0e3f8432@37cea",
+    "assetFinder": {
+      "meshes": [
+        "5605bb18-2a84-46e8-af98-769e0e3f8432@23b20"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5605bb18-2a84-46e8-af98-769e0e3f8432@d90a4"
+      ],
+      "scenes": [
+        "5605bb18-2a84-46e8-af98-769e0e3f8432@37cea"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

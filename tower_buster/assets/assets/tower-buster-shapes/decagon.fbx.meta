@@ -1,0 +1,135 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "568fa524-521c-4548-a457-3a139e591b20",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f1773": {
+      "importer": "gltf-mesh",
+      "uuid": "568fa524-521c-4548-a457-3a139e591b20@f1773",
+      "displayName": "",
+      "id": "f1773",
+      "name": "decagon.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 276
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "568fa524-521c-4548-a457-3a139e591b20@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.3333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "1e79d": {
+      "importer": "gltf-scene",
+      "uuid": "568fa524-521c-4548-a457-3a139e591b20@1e79d",
+      "displayName": "",
+      "id": "1e79d",
+      "name": "decagon.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3.3333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 3.3333332538604736,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "568fa524-521c-4548-a457-3a139e591b20@1e79d",
+    "assetFinder": {
+      "meshes": [
+        "568fa524-521c-4548-a457-3a139e591b20@f1773"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8c4265d3-f212-41ee-9652-30d1d3294490"
+      ],
+      "scenes": [
+        "568fa524-521c-4548-a457-3a139e591b20@1e79d"
+      ]
+    },
+    "morphNormals": 1,
+    "promoteSingleRootNode": false,
+    "meshOptimizer": {
+      "enable": false
+    },
+    "allowMeshDataAccess": true,
+    "disableMeshSplit": true,
+    "skipValidation": true,
+    "normals": 0,
+    "tangents": 0,
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/assets/tower-buster-shapes/Materials_decagon",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

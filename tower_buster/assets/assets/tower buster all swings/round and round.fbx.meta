@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e1258895-c56f-44b1-80a1-896b990a6ff2",
+  "files": [],
+  "subMetas": {
+    "23380": {
+      "importer": "gltf-scene",
+      "uuid": "e1258895-c56f-44b1-80a1-896b990a6ff2@23380",
+      "displayName": "",
+      "id": "23380",
+      "name": "round and round.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fe6ae": {
+      "importer": "gltf-mesh",
+      "uuid": "e1258895-c56f-44b1-80a1-896b990a6ff2@fe6ae",
+      "displayName": "",
+      "id": "fe6ae",
+      "name": "Cone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 216
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db9ab": {
+      "importer": "gltf-mesh",
+      "uuid": "e1258895-c56f-44b1-80a1-896b990a6ff2@db9ab",
+      "displayName": "",
+      "id": "db9ab",
+      "name": "Cylinder.008.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 1328
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "e1258895-c56f-44b1-80a1-896b990a6ff2@23380",
+    "assetFinder": {
+      "meshes": [
+        "e1258895-c56f-44b1-80a1-896b990a6ff2@fe6ae",
+        "e1258895-c56f-44b1-80a1-896b990a6ff2@db9ab"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e1258895-c56f-44b1-80a1-896b990a6ff2@23380"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

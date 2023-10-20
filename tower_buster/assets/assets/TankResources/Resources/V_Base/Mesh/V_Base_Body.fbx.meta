@@ -1,0 +1,420 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "45921": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@45921",
+      "displayName": "",
+      "id": "45921",
+      "name": "R_RearGear.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89809": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@89809",
+      "displayName": "",
+      "id": "89809",
+      "name": "HeadLights.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 576
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e07e5": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@e07e5",
+      "displayName": "",
+      "id": "e07e5",
+      "name": "Shovel.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 144
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df516": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@df516",
+      "displayName": "",
+      "id": "df516",
+      "name": "R_RearWheel.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6f85": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@d6f85",
+      "displayName": "",
+      "id": "d6f85",
+      "name": "L_FrontGear.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8bb65": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@8bb65",
+      "displayName": "",
+      "id": "8bb65",
+      "name": "L_Treads.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 200
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "21be0": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@21be0",
+      "displayName": "",
+      "id": "21be0",
+      "name": "R_FrontWheel.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c457": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@0c457",
+      "displayName": "",
+      "id": "0c457",
+      "name": "L_RearGear.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "97bfb": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@97bfb",
+      "displayName": "",
+      "id": "97bfb",
+      "name": "L_FrontWheel.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0c49": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@c0c49",
+      "displayName": "",
+      "id": "c0c49",
+      "name": "R_Treads.mesh",
+      "userData": {
+        "gltfIndex": 9,
+        "triangleCount": 200
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aae34": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@aae34",
+      "displayName": "",
+      "id": "aae34",
+      "name": "L_RearWheel.mesh",
+      "userData": {
+        "gltfIndex": 10,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6fe3": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@f6fe3",
+      "displayName": "",
+      "id": "f6fe3",
+      "name": "R_FrontGear.mesh",
+      "userData": {
+        "gltfIndex": 11,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cbcd6": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@cbcd6",
+      "displayName": "",
+      "id": "cbcd6",
+      "name": "Body.mesh",
+      "userData": {
+        "gltfIndex": 12,
+        "triangleCount": 248
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bfa93": {
+      "importer": "gltf-mesh",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@bfa93",
+      "displayName": "",
+      "id": "bfa93",
+      "name": "TreadCovers.mesh",
+      "userData": {
+        "gltfIndex": 13,
+        "triangleCount": 264
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "3bcba": {
+      "importer": "gltf-material",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@3bcba",
+      "displayName": "",
+      "id": "3bcba",
+      "name": "V_BaseTank.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf555": {
+      "importer": "gltf-material",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@cf555",
+      "displayName": "",
+      "id": "cf555",
+      "name": "V_BaseTank_L_Tread.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa186": {
+      "importer": "gltf-material",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@aa186",
+      "displayName": "",
+      "id": "aa186",
+      "name": "V_BaseTank_R_Tread.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c64a2": {
+      "importer": "gltf-scene",
+      "uuid": "e86580b5-d879-4f5e-bd5e-c141a3f53772@c64a2",
+      "displayName": "",
+      "id": "c64a2",
+      "name": "V_Base_Body.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 5,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "e86580b5-d879-4f5e-bd5e-c141a3f53772@c64a2",
+    "assetFinder": {
+      "meshes": [
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@e07e5",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@df516",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@d6f85",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@8bb65",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@89809",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@21be0",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@0c457",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@97bfb",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@45921",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@c0c49",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@aae34",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@f6fe3",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@cbcd6",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@bfa93"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@3bcba",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@cf555",
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@aa186"
+      ],
+      "scenes": [
+        "e86580b5-d879-4f5e-bd5e-c141a3f53772@c64a2"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "df5c609d-553e-426d-8d15-9afe3c08730a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "de8d5": {
+      "importer": "gltf-mesh",
+      "uuid": "df5c609d-553e-426d-8d15-9afe3c08730a@de8d5",
+      "displayName": "",
+      "id": "de8d5",
+      "name": "traingle.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 80
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "df5c609d-553e-426d-8d15-9afe3c08730a@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.3333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "df5c609d-553e-426d-8d15-9afe3c08730a@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6cd75": {
+      "importer": "gltf-scene",
+      "uuid": "df5c609d-553e-426d-8d15-9afe3c08730a@6cd75",
+      "displayName": "",
+      "id": "6cd75",
+      "name": "traingle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3.3333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 3.3333332538604736,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "df5c609d-553e-426d-8d15-9afe3c08730a@6cd75",
+    "assetFinder": {
+      "meshes": [
+        "df5c609d-553e-426d-8d15-9afe3c08730a@de8d5"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "df5c609d-553e-426d-8d15-9afe3c08730a@ea6e2"
+      ],
+      "scenes": [
+        "df5c609d-553e-426d-8d15-9afe3c08730a@6cd75"
+      ]
+    },
+    "normals": 0,
+    "useVertexColors": true,
+    "dumpMaterials": false,
+    "materialDumpDir": "db://assets/assets/tower-buster-shapes/Materials_traingle",
+    "meshOptimizer": {
+      "enable": false,
+      "algorithm": "simplify"
+    },
+    "morphNormals": 1,
+    "depthWriteInAlphaModeBlend": false,
+    "tangents": 0,
+    "promoteSingleRootNode": true,
+    "disableMeshSplit": true,
+    "allowMeshDataAccess": true,
+    "skipValidation": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

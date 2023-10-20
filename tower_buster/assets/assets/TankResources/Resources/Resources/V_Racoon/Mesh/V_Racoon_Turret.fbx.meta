@@ -1,0 +1,215 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "98e849df-ff6a-48d8-85fb-3945566adbbf",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "43339": {
+      "importer": "gltf-scene",
+      "uuid": "98e849df-ff6a-48d8-85fb-3945566adbbf@43339",
+      "displayName": "",
+      "id": "43339",
+      "name": "V_Racoon_Turret.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a272": {
+      "importer": "gltf-mesh",
+      "uuid": "98e849df-ff6a-48d8-85fb-3945566adbbf@0a272",
+      "displayName": "",
+      "id": "0a272",
+      "name": "Turret.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 84
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bed7c": {
+      "importer": "gltf-mesh",
+      "uuid": "98e849df-ff6a-48d8-85fb-3945566adbbf@bed7c",
+      "displayName": "",
+      "id": "bed7c",
+      "name": "Launcher.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 526
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "321db": {
+      "importer": "gltf-mesh",
+      "uuid": "98e849df-ff6a-48d8-85fb-3945566adbbf@321db",
+      "displayName": "",
+      "id": "321db",
+      "name": "Missile_001.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 370
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "34acd": {
+      "importer": "gltf-mesh",
+      "uuid": "98e849df-ff6a-48d8-85fb-3945566adbbf@34acd",
+      "displayName": "",
+      "id": "34acd",
+      "name": "Missile_002.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 370
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "68d5e": {
+      "importer": "gltf-mesh",
+      "uuid": "98e849df-ff6a-48d8-85fb-3945566adbbf@68d5e",
+      "displayName": "",
+      "id": "68d5e",
+      "name": "Missile_001 (2).mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 370
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "98e849df-ff6a-48d8-85fb-3945566adbbf@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "3bcba": {
+      "importer": "gltf-material",
+      "uuid": "98e849df-ff6a-48d8-85fb-3945566adbbf@3bcba",
+      "displayName": "",
+      "id": "3bcba",
+      "name": "V_BaseTank.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 5,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "98e849df-ff6a-48d8-85fb-3945566adbbf@43339",
+    "assetFinder": {
+      "meshes": [
+        "98e849df-ff6a-48d8-85fb-3945566adbbf@0a272",
+        "98e849df-ff6a-48d8-85fb-3945566adbbf@bed7c",
+        "98e849df-ff6a-48d8-85fb-3945566adbbf@321db",
+        "98e849df-ff6a-48d8-85fb-3945566adbbf@34acd",
+        "98e849df-ff6a-48d8-85fb-3945566adbbf@68d5e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "98e849df-ff6a-48d8-85fb-3945566adbbf@3bcba"
+      ],
+      "scenes": [
+        "98e849df-ff6a-48d8-85fb-3945566adbbf@43339"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

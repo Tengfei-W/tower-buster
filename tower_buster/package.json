@@ -1,0 +1,16 @@
+{
+  "name": "tower_buster",
+  "uuid": "01518fae-9832-445e-be67-f0153b0c91db",
+  "version": "3.5.2",
+  "creator": {
+    "version": "3.8.0"
+  },
+  "dependencies": {
+    "js-sha1": "^0.6.0",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/js-sha1": "^0.6.0",
+    "@types/sha1": "^1.1.3"
+  }
+}

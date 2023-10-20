@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9fca0fa6-2bb4-467c-a50f-27ff96f83792",
+  "files": [],
+  "subMetas": {
+    "10a81": {
+      "importer": "gltf-mesh",
+      "uuid": "9fca0fa6-2bb4-467c-a50f-27ff96f83792@10a81",
+      "displayName": "",
+      "id": "10a81",
+      "name": "Cylinder.006.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 308
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2efcc": {
+      "importer": "gltf-mesh",
+      "uuid": "9fca0fa6-2bb4-467c-a50f-27ff96f83792@2efcc",
+      "displayName": "",
+      "id": "2efcc",
+      "name": "Cylinder.029.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 2688
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "170e5": {
+      "importer": "gltf-scene",
+      "uuid": "9fca0fa6-2bb4-467c-a50f-27ff96f83792@170e5",
+      "displayName": "",
+      "id": "170e5",
+      "name": "ferries wheel.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "9fca0fa6-2bb4-467c-a50f-27ff96f83792@170e5",
+    "assetFinder": {
+      "meshes": [
+        "9fca0fa6-2bb4-467c-a50f-27ff96f83792@10a81",
+        "9fca0fa6-2bb4-467c-a50f-27ff96f83792@2efcc"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "9fca0fa6-2bb4-467c-a50f-27ff96f83792@170e5"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

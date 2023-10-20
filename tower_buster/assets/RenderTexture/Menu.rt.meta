@@ -1,0 +1,40 @@
+{
+  "ver": "1.2.2",
+  "importer": "render-texture",
+  "imported": true,
+  "uuid": "f36ec017-ca18-42b3-8e83-70131e65a905",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "f9941": {
+      "importer": "rt-sprite-frame",
+      "uuid": "f36ec017-ca18-42b3-8e83-70131e65a905@f9941",
+      "displayName": "Menu",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "imageUuidOrDatabaseUri": "f36ec017-ca18-42b3-8e83-70131e65a905",
+        "width": 512,
+        "height": 512
+      },
+      "ver": "1.0.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "width": 512,
+    "height": 512,
+    "anisotropy": 0,
+    "minfilter": "linear",
+    "magfilter": "linear",
+    "mipfilter": "none",
+    "wrapModeS": "repeat",
+    "wrapModeT": "repeat",
+    "redirect": "f36ec017-ca18-42b3-8e83-70131e65a905@f9941"
+  }
+}

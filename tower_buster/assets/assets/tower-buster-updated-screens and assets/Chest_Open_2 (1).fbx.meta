@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "67c59a5d-c0b2-4081-b25d-1adaf707feaa",
+  "files": [],
+  "subMetas": {
+    "6bdc4": {
+      "importer": "gltf-mesh",
+      "uuid": "67c59a5d-c0b2-4081-b25d-1adaf707feaa@6bdc4",
+      "displayName": "",
+      "id": "6bdc4",
+      "name": "Chest_Open.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2914
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "67c59a5d-c0b2-4081-b25d-1adaf707feaa@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "67c59a5d-c0b2-4081-b25d-1adaf707feaa@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "67c59a5d-c0b2-4081-b25d-1adaf707feaa@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89a26": {
+      "importer": "gltf-material",
+      "uuid": "67c59a5d-c0b2-4081-b25d-1adaf707feaa@89a26",
+      "displayName": "",
+      "id": "89a26",
+      "name": "Atlas.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f695c": {
+      "importer": "gltf-scene",
+      "uuid": "67c59a5d-c0b2-4081-b25d-1adaf707feaa@f695c",
+      "displayName": "",
+      "id": "f695c",
+      "name": "Chest_Open_2 (1).prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "67c59a5d-c0b2-4081-b25d-1adaf707feaa@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "67c59a5d-c0b2-4081-b25d-1adaf707feaa@f695c",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "67c59a5d-c0b2-4081-b25d-1adaf707feaa@6bdc4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "67c59a5d-c0b2-4081-b25d-1adaf707feaa@7d6ab"
+      ],
+      "materials": [
+        "67c59a5d-c0b2-4081-b25d-1adaf707feaa@89a26"
+      ],
+      "scenes": [
+        "67c59a5d-c0b2-4081-b25d-1adaf707feaa@f695c"
+      ]
+    }
+  }
+}

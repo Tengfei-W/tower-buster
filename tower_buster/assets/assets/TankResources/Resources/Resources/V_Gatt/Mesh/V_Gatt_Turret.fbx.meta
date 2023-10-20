@@ -1,0 +1,196 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "0a272": {
+      "importer": "gltf-mesh",
+      "uuid": "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@0a272",
+      "displayName": "",
+      "id": "0a272",
+      "name": "Turret.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 184
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5760": {
+      "importer": "gltf-mesh",
+      "uuid": "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@e5760",
+      "displayName": "",
+      "id": "e5760",
+      "name": "Gun.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed8b6": {
+      "importer": "gltf-mesh",
+      "uuid": "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@ed8b6",
+      "displayName": "",
+      "id": "ed8b6",
+      "name": "Barrel.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 156
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b5457": {
+      "importer": "gltf-mesh",
+      "uuid": "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@b5457",
+      "displayName": "",
+      "id": "b5457",
+      "name": "AmmoBoxes.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d54d8": {
+      "importer": "gltf-material",
+      "uuid": "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@d54d8",
+      "displayName": "",
+      "id": "d54d8",
+      "name": "Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92c28": {
+      "importer": "gltf-scene",
+      "uuid": "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@92c28",
+      "displayName": "",
+      "id": "92c28",
+      "name": "V_Gatt_Turret.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 5,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@92c28",
+    "assetFinder": {
+      "meshes": [
+        "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@0a272",
+        "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@e5760",
+        "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@ed8b6",
+        "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@b5457"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@d54d8"
+      ],
+      "scenes": [
+        "fbaeb06f-c3f5-4fa6-8d1e-457d2f2aa102@92c28"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}
